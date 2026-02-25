@@ -5,11 +5,12 @@
   <img src="https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" height="28"/>
-  &nbsp;&nbsp;
+  <!-- Aerospace / Simulation -->
+  <img src="https://img.shields.io/badge/Flight%20Software-0A0A0A?logo=rocket&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Simulation-1F425F?logo=databricks&logoColor=white" height="28"/>
   <!-- Frameworks / UI -->
   <img src="https://img.shields.io/badge/PyQt-41CD52?logo=qt&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Bevy-232326?logo=bevy&logoColor=white" height="28"/>
-  &nbsp;&nbsp;
   <!-- AI / Quantum -->
   <img src="https://img.shields.io/badge/AI-412991?logo=openai&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=spacy&logoColor=white" height="28"/>
