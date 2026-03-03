@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/AI-4B8BBE" height="28"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE" height="28"/>
   <img src="https://img.shields.io/badge/Quantum-4B8BBE" height="28"/>
+  <img src="https://img.shields.io/badge/GIS-4B8BBE" height="28"/>
   <br />
   <img src="https://img.shields.io/badge/Bevy-006400?logo=bevy&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/PyQt-006400?logo=qt&logoColor=white" height="28"/>
