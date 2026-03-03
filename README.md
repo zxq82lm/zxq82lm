@@ -16,4 +16,5 @@
   <img src="https://img.shields.io/badge/PyQt-006400?logo=qt&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Pygame-006400?logo=qt&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Qiskit-006400?logo=qiskit&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/myQLM-006400?logo=qiskit&logoColor=white" height="28"/>
 </p>
